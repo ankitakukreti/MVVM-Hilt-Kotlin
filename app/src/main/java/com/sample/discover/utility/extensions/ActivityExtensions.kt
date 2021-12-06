@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.FragmentActivity
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.airtel.discover.BuildConfig
+import com.sample.discover.BuildConfig
 import kotlin.reflect.KClass
 
 /** Extension fun for Fragment activity to create view model object */

@@ -1,4 +1,4 @@
-package com.airtel.discover.network
+package com.sample.discover.network
 
 interface IRestApiService {
 }

@@ -1,4 +1,4 @@
-package com.airtel.discover.di
+package com.sample.discover.di
 
 class AppModule {
 }

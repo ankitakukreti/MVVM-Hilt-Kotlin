@@ -1,4 +1,4 @@
-package com.airtel.discover
+package com.sample.discover
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

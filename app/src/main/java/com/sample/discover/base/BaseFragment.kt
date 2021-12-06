@@ -1,4 +1,4 @@
-package com.airtel.discover.base
+package com.sample.discover.base
 
 import androidx.fragment.app.Fragment
 

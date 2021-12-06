@@ -1,4 +1,4 @@
-package com.airtel.discover
+package com.sample.discover
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
