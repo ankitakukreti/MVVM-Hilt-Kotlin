@@ -1,4 +1,4 @@
-package com.sample.discover.base
+package com.sample.explore.base
 
 import androidx.appcompat.app.AppCompatActivity
 

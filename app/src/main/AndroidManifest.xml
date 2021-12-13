@@ -10,8 +10,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Discover">
-        <activity android:name="com.sample.discover.MainActivity">
+        android:theme="@style/Theme.Explore">
+        <activity android:name="com.sample.explore.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

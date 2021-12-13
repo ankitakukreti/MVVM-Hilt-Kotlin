@@ -1,7 +1,8 @@
-package com.sample.discover
+package com.sample.explore
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.sample.discover.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

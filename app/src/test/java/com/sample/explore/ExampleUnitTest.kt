@@ -1,4 +1,4 @@
-package com.sample.discover
+package com.sample.explore
 
 import org.junit.Test
 
